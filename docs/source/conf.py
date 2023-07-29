@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 # NOTE: Add your project's information here.
-project = 'Cumberland CLoud'
-copyright = '2022'
+project = 'Cumberland Cloud'
+copyright = '2023'
 author = 'Grant Moore'
 release = '1.0.0'
 
@@ -60,7 +60,7 @@ html_theme = 'sphinx_material'
 html_theme_options = {
 
     # Set the name of the project to appear in the navigation.
-    'nav_title': 'Documentation',
+    'nav_title': 'Cumberland Cloud',
 
     # Set you GA account ID to enable tracking
     'google_analytics_account': 'UA-XXXXX',
@@ -75,7 +75,7 @@ html_theme_options = {
 
     # Set the repo location to get a badge with stats
     'repo_url': 'https://github.com/cumberland-cloud/documentation.git',
-    'repo_name': 'Cumberland Cloud Documentation',
+    'repo_name': 'Documentation',
 
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 2,

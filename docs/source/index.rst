@@ -6,4 +6,5 @@ Welcome to cumberland-cloud's documentation!
    :caption: Contents:
 
    OVERVIEW
+   TERRAFORM
    APPENDIX
